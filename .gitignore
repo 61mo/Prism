@@ -1,0 +1,14 @@
+node_modules/
+dist/
+out/
+target/
+release/
+*.exe
+*.msi
+*.dmg
+*.AppImage
+.DS_Store
+*.log
+.env
+.env.local
+src-tauri/target/
